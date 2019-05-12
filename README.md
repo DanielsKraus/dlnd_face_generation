@@ -28,4 +28,4 @@ __NOTE:__ In the notebook, you will need to train GAN in PyTorch.  If your GAN i
 
 ## (Optionally) Accelerating the Training Process 
 
-If your code is taking too long to run, you will need to either reduce the complexity of your chosen CNN architecture or switch to running your code on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own:
+If your code is taking too long to run, you will need to either reduce the complexity of your chosen GAN architecture or switch to running your code on a GPU.  If you'd like to use a GPU, you can spin up an instance of your own:
