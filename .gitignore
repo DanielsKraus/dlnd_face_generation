@@ -1,15 +1,8 @@
 .ipynb_checkpoints
-
 **/__MACOSX
-
 **/__pycache__
-
 **/*.zip
-
 **/*.tar
-
 **/*.tgz
-
 **/processed_celeba_small
-
 **/*.pkl
